@@ -1,0 +1,13 @@
+{
+  "$schema": "https://recomp.fyi/schema/v1.json",
+  "game": "Bugs Bunny - Lost in Time",
+  "system": "PS1",
+  "type": "recomp",
+  "toolchain": "psxrecomp",
+  "status": "exploring",
+  "project": "bugs-bunny-lost-in-time-recomp",
+  "original": {
+    "region": "USA",
+    "serial": "SLUS-00838"
+  }
+}
